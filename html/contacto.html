@@ -7,10 +7,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="../img/favicon.png" type="image/x-icon">
     <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/animate.css">
     <title>Okapi</title>
 </head>
 
 <body>
+   
     <nav class="nav">
         <a href="../index.html">
             <img src="../img/okapi.png" alt="logo de Okapi">
@@ -31,13 +33,14 @@
         </ul>
     </nav>
 
+        <div class="animated-background">
 
     <header id="contacto">
         <h1>Contacto</h1>
     </header>
 
     <main id="contact">
-        <h3>¿Querés trabajar con nosotros?</h3>
+        <h3 class="wow fadeInRight" data-wow-duration="2s" data-wow-delay="1.5s">¿Querés trabajar con nosotros?</h3>
         <div class="contacto">
             <div class="contacto__container--form">
                 <form class="form__contacto">
@@ -65,7 +68,7 @@
                     </iframe>
                 </div>
     </main>
-
+        </div>
     <footer>
         <a href="https://www.instagram.com/okapi.01/" target="_blank">
             <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="seguinos en Instagram">
@@ -77,6 +80,12 @@
             <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Seguinos en Facebook">
         </a>
     </footer>
+
+
+    <script src="../js/wow.min.js"></script>
+    <script>
+    new WOW().init();
+    </script>
 
 </body>
 
