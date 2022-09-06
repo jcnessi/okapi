@@ -500,3 +500,27 @@ footer {
     }
 }
 
+/* animaciones */
+
+.animated-background {
+    background: linear-gradient(
+        to right, rgb(231, 56, 56),
+        rgb(0, 0, 0), rgb(131, 7, 7));
+        background-size: 400% 400%;
+        animation: animate-background 10s infinite ease-in-out;
+}
+
+@keyframes animated-background {
+    0% {
+        background-position: 0 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0 50%;
+    }
+
+
+
+}
