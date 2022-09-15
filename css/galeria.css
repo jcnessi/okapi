@@ -1,0 +1,22 @@
+#galeria {
+  padding: 20px;
+  font-weight: 900;
+  text-shadow: 2px 2px 5px;
+  color: aliceblue;
+}
+
+.gallery-container {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-auto-rows: 400px;
+  padding: 20px;
+  grid-gap: 10px;
+}
+
+.gallery__img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  border-radius: 5px;
+}
