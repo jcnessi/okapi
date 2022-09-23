@@ -1,7 +1,7 @@
 footer {
     padding: 50px 0px;
     width: 100%;
-    background-color: black;
+    background-color: $secondary;
     /* background-image: ;  */
     background-size: cover;
 }
@@ -28,6 +28,9 @@ footer {
         margin-top: 10px;
         color: rgb(255, 255, 255);
         font-weight: 600;
+        &:hover {
+            opacity: 0.8;
+        }
     }
     .logo-footer {
         img {
@@ -42,10 +45,6 @@ footer {
         font-size: 18px;
     }
     }
-
-.box__footer a:hover {
-    opacity: 0.8;
-}
 
 .box__copyright {
     max-width: 1200px;
