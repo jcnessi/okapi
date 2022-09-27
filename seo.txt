@@ -1,0 +1,37 @@
+1-En el archivo index.html sumé el SEO con las siguientes caractierísticas: 
+
+  -Descripción: mediante la etiqueta meta name description, agruegué el siguiente texto que explica en pocas palabras el contenido de mi sitio: Okapi Restaurant-bar Florentino Ameghino
+
+  -Encabezado: para el encabezado h1 utilicé el texto "OKAPI"
+
+
+
+2-En el archivo galeria.html sumé el SEO con las siguientes caractierísticas: 
+
+  -Descripción: mediante la etiqueta meta name description, agruegué el siguiente texto que explica en pocas palabras el contenido de mi sitio: Visitá nuestra galería
+
+  -Encabezado: para el encabezado h1 utilicé el texto "GALERIA"
+
+
+
+3-En el archivo promciones.html sumé el SEO con las siguientes caractierísticas: 
+
+  -Descripción: mediante la etiqueta meta name description, agruegué el siguiente texto que explica en pocas palabras el contenido de mi sitio: Vení a disfrutar nuestra promociones y los mejores platos de la zona
+
+  -Encabezado: para el encabezado h1 utilicé el texto "VENÍ A DISFRUTAR DE LOS MEJORES PLATOS DE LA ZONA"
+
+
+
+4-En el archivo nosotros.html sumé el SEO con las siguientes caractierísticas: 
+
+  -Descripción: mediante la etiqueta meta name description, agruegué el siguiente texto que explica en pocas palabras el contenido de mi sitio: Conocé quienes somos, y porque decidimos dedicarnos a esto
+
+  -Encabezado: para el encabezado h1 utilicé el texto "¿QUIENES SOMOS?"
+
+
+
+5-En el archivo contacto.html sumé el SEO con las siguientes caractierísticas: 
+
+  -Descripción: mediante la etiqueta meta name description, agruegué el siguiente texto que explica en pocas palabras el contenido de mi sitio: Contactanos por mail o encontranos en Calle 30, Ameghin
+
+  -Encabezado: para el encabezado h1 utilicé el texto "CONTACTO"

@@ -1,8 +1,12 @@
-
-
-
-
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
+
+//variables
+$primary: rgb(117, 4, 4);
+$secondary: rgb(0, 0, 0);
+$alternative: rgb(240, 248, 255);
+$red: #ff0000;
+
+
 
 * {
     font-family: 'Roboto Condensed', sans-serif;
@@ -11,7 +15,7 @@
 }
 
 body {
-    background-color: rgb(117, 4, 4);
+    background-color: $primary;
 }
 
 footer a{

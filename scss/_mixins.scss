@@ -1,0 +1,21 @@
+@mixin flex ($direc, $justify, $align){
+    display: flex;
+    flex-direction: $direc;
+    justify-content: $justify;
+    align-items: $align;
+}
+
+@mixin texto ($padd, $border, $color) {
+    border: solid rgb(71, 4, 5) 3px;
+    background-color: black;
+    text-align: center;
+    padding: $padd;
+    border-radius: $border;
+    color: $color;
+}
+
+//map
+$backgrounds:(
+    'uno': #000000,
+    'dos': #ff0000,
+    )

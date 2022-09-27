@@ -57,6 +57,9 @@ footer {
   color: rgb(255, 255, 255);
   font-weight: 600;
 }
+.box__footer a:hover {
+  opacity: 0.8;
+}
 .box__footer .logo-footer img {
   width: 180px;
 }
@@ -66,10 +69,6 @@ footer {
   font-weight: 500;
   color: #fff;
   font-size: 18px;
-}
-
-.box__footer a:hover {
-  opacity: 0.8;
 }
 
 .box__copyright {
@@ -195,7 +194,6 @@ article {
   color: #fff;
   font-weight: 600;
 }
-
 .form__input--contacto:focus {
   outline: none;
   border-bottom-color: #fff;
@@ -212,7 +210,6 @@ article {
   margin-top: 15px;
   font-size: 1em;
 }
-
 .form__boton--contacto:hover {
   background-color: #000000;
   cursor: pointer;
